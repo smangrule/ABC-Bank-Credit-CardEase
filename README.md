@@ -22,9 +22,9 @@ Creating documents with respect to both Waterfall and Agile Scrum Methodology
 │   ├── Mind_Map # Mind Map_ABC Bank Credit CardEase
 
 **Work In Progress:**
-BRD
-FRD
-User Stories and Acceptance Criteria
+BRD,
+FRD,
+User Stories and Acceptance Criteria,
 Use Cases
 
 

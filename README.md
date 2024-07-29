@@ -15,11 +15,11 @@ This project aimed to analyze and improve the user acquisition journey for ABC B
 Creating documents with respect to both Waterfall and Agile Scrum Methodology
 
 **Project Structure:**
-├── docs/
-│   ├── Customer_Journey_Mapping  # Customer Journey Mapping
-│   ├── SWOT_Analysis   # SWOT Analysis for ABC Bank Credit Card
-│   ├── Competitive_Analysis # Competitive Analysis for ABC Bank Credit Card
-│   ├── Mind_Map # Mind Map_ABC Bank Credit CardEase
+- Documentation
+1) Customer_Journey_Mapping # Customer Journey Mapping
+2) SWOT_Analysis  # SWOT Analayis_ABC Bank Credit CardEase
+3) Competitive_Analysis # Competitive Analysis for ABC Bank Credit Card
+4) Mind_Map # Mind Map_ABC Bank Credit CardEase
 
 **Work In Progress:**
 BRD,
